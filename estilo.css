@@ -1,0 +1,42 @@
+/*parte nave menu*/
+.nav, .nav2, .nav3{
+    text-align: center;
+    border-style: solid;
+  border-bottom-width: 3px;
+  border-top-width: 0;
+  border-right-width: 0;
+  border-left-width: 0;
+    
+}
+    /*igual so mudo o numero*/
+.ht, .ht2, .ht3{
+    color: whitesmoke;
+    background-color: dimgray;
+    border-radius: 25px 25px 2px 2px;
+    padding: 3px 30px 1px;
+    text-decoration: none;
+}
+.cs, .cs2, .cs3{
+     color: whitesmoke;
+    background-color: dimgray;
+    border-radius: 25px 25px 2px 2px;
+    padding: 3px 20px 1px;
+    text-decoration: none;
+}
+.fra, .fra2, .fra3{
+    color:whitesmoke;
+    background-color: dimgray;
+    border-radius: 25px 25px 2px 2px;
+    padding: 3px 20px 1px;
+    text-decoration: none; 
+}
+/*imagem*/
+.fig1, .fig2, .fig3{
+    float:right;
+        
+}
+.footer1, .footer2, .footer3 {
+    background-color: black;
+    color:white;
+    text-align: right;
+}
